@@ -45,8 +45,8 @@ app/
 Requires **Java 17+**. Gradle is included through the wrapper, so it doesn't need to be installed separately.
 
 ```bash
-git clone https://github.com/codes-jenny/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/codes-jenny/IRCTC-Ticket-Booking-System.git
+cd IRCTC-Ticket-Booking-System
 ./gradlew run          # on Windows: gradlew.bat run
 ```
 
